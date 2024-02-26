@@ -17,5 +17,4 @@ public class Container extends Component{
         children.add(child);
         child.container = this;
     }
-    hola;
 }
